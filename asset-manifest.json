@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nwitter/static/css/main.c4ab1cee.chunk.css",
+    "main.js": "/Nwitter/static/js/main.cbcc0dbc.chunk.js",
+    "main.js.map": "/Nwitter/static/js/main.cbcc0dbc.chunk.js.map",
+    "runtime-main.js": "/Nwitter/static/js/runtime-main.6f2a155d.js",
+    "runtime-main.js.map": "/Nwitter/static/js/runtime-main.6f2a155d.js.map",
+    "static/js/2.ddff4ea3.chunk.js": "/Nwitter/static/js/2.ddff4ea3.chunk.js",
+    "static/js/2.ddff4ea3.chunk.js.map": "/Nwitter/static/js/2.ddff4ea3.chunk.js.map",
+    "index.html": "/Nwitter/index.html",
+    "static/css/main.c4ab1cee.chunk.css.map": "/Nwitter/static/css/main.c4ab1cee.chunk.css.map",
+    "static/js/2.ddff4ea3.chunk.js.LICENSE.txt": "/Nwitter/static/js/2.ddff4ea3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f2a155d.js",
+    "static/js/2.ddff4ea3.chunk.js",
+    "static/css/main.c4ab1cee.chunk.css",
+    "static/js/main.cbcc0dbc.chunk.js"
+  ]
+}
